@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "..\YugiohMasterDuelProject\BusinessLayer\BusinessLayer.csproj", "{3FBB14E0-455B-4194-93DE-5E944FFED08C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "..\YugiohMasterDuelProject\DataLayer\DataLayer.csproj", "{8F74CE77-F79E-45BA-BA43-96C0172771F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yu-Gi-Oh-Backend", "Yu-Gi-Oh-Backend\Yu-Gi-Oh-Backend.csproj", "{99C18405-1C86-441B-A051-823B23246878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3FBB14E0-455B-4194-93DE-5E944FFED08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FBB14E0-455B-4194-93DE-5E944FFED08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FBB14E0-455B-4194-93DE-5E944FFED08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FBB14E0-455B-4194-93DE-5E944FFED08C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F74CE77-F79E-45BA-BA43-96C0172771F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F74CE77-F79E-45BA-BA43-96C0172771F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F74CE77-F79E-45BA-BA43-96C0172771F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F74CE77-F79E-45BA-BA43-96C0172771F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C18405-1C86-441B-A051-823B23246878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C18405-1C86-441B-A051-823B23246878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C18405-1C86-441B-A051-823B23246878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C18405-1C86-441B-A051-823B23246878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F2F4714E-EEE9-4AEF-BCDC-5614D64C4A6B}
+		SolutionGuid = {76B6C8F9-71D8-43D3-BC52-834130E44306}
 	EndGlobalSection
 EndGlobal

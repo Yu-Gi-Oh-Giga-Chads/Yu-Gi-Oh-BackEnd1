@@ -1,0 +1,6 @@
+@Yu_Gi_Oh_Backend_HostAddress = http://localhost:5258
+
+GET {{Yu_Gi_Oh_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
