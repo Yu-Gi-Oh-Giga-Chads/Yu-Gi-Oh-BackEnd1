@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Yu-Gi-Oh-Backend.props" />
+</Project>

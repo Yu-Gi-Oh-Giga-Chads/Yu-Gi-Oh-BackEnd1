@@ -1,3 +1,9 @@
+using System.Web.Http;
+using System.Web.Http.SelfHost;
+
+
+var config = new HttpSelfHostConfiguration("http://localhost:8080");
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

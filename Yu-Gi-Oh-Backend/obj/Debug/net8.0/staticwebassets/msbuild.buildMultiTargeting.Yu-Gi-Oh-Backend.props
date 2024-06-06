@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Yu-Gi-Oh-Backend.props" />
+</Project>
